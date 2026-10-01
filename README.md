@@ -2,9 +2,9 @@
 
 ##I'm Sifiso Tshabalala 👋
 
-### Junior Software Developer | Web Development | Cloud & Technology
+### Junior Full Stack Developer | 
 
-I'm an aspiring Software Developer with a growing foundation in **web development, cloud technologies, and software engineering**.
+I'm an aspiring Junior Full Stack Developer with a growing foundation in **Software development, cloud technologies**.
 
 I enjoy understanding how technology works behind the scenes and turning ideas into practical, user-friendly applications. I'm particularly interested in expanding my skills beyond frontend development and gaining experience across different areas of software and cloud engineering.
 
